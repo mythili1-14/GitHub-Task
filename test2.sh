@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "Welcome to new branch  named Merge"
+echo "Hello"
+echo "Welcome to Stash"
